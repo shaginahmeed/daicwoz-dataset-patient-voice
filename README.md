@@ -40,3 +40,21 @@ Based on the `train_split_Depression_AVEC2017.csv` and `dev_split_Depression_AVE
 
 * **Participants in the test split within this range (no depression labels available in these files):**
     `[300, 301, 306, 308, 309, 311, 314, 323, 329, 332, 334, 337, 349, 354, 359, 361, 365, 373, 378, 384, 387, 396, 399]`
+
+### PHQ-8 Score Details (for participants 300-402 with labels):
+
+**For Depressed Participants (PHQ8_Binary = 1):**
+* **Count:** 30
+* **Mean PHQ8 Score:** 13.80
+* **Standard Deviation:** 3.68
+* **Min PHQ8 Score:** 10
+* **Max PHQ8 Score:** 23
+* **Median PHQ8 Score:** 12
+
+**For Non-Depressed Participants (PHQ8_Binary = 0):**
+* **Count:** 47
+* **Mean PHQ8 Score:** 4.62
+* **Standard Deviation:** 3.00
+* **Min PHQ8 Score:** 0
+* **Max PHQ8 Score:** 9
+* **Median PHQ8 Score:** 5
